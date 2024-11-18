@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chrinore
-- 👀 I am interested in IT and specifically in web development at the moment
+- 👀 I am interested in IT and specifically in web development
 - 🌱 I’m currently learning JavaScript and Node JS
 - 📫 reach me by instagram https://www.instagram.com/mr_esambu_16/
 
